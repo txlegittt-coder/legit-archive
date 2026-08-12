@@ -1,0 +1,12 @@
+{
+  "background_color": "#0A0A0A",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ascend",
+  "orientation": "any",
+  "scope": "/legit-archive/",
+  "short_name": "Ascend",
+  "start_url": "/legit-archive/",
+  "theme_color": "#0A0A0A",
+  "id": "/legit-archive/"
+}
